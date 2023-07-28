@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.blog-item-link {
+  color: #ffffff;
+  text-decoration: none;
+  width: 40%;
+}
+
+.eachItem_container {
+  border: 3px solid #475569;
+  background: rgba(230, 225, 225, 0.1);
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 7px;
+
+  margin: 10px;
+}
+.image2 {
+  height: 120px;
+  width: 125px;
+}
+.desc {
+  font-size: 22px;
+  font-family: 'Bree Serif';
+  font-weight: 500;
+  margin-left: 10px;
+}

@@ -1,0 +1,47 @@
+/* Write your CSS here */
+.latest_data_container {
+  background-color: #1e293b;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+.right {
+  width: 60%;
+}
+.competing_team {
+  font-size: 22px;
+}
+.competing_date {
+  font-size: 15px;
+}
+.competing_venue {
+  font-size: 17px;
+}
+.competing_result {
+  font-size: 16px;
+}
+
+.competing_logo {
+  height: 180px;
+  width: 220px;
+  margin-left: 35px;
+}
+.competing_1 {
+  font-size: 20px;
+  text-align: right;
+  /* padding-right: 20px; */
+}
+.competing_2 {
+  font-size: 12px;
+  text-align: right;
+  /* padding-right: 20px; */
+}
+
+.commoncolor {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  /* padding-left: 20px; */
+  margin: 5px 0px;
+}
